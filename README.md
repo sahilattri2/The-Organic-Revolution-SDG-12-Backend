@@ -15,7 +15,8 @@ To set up and run the backend server locally, follow these steps:
 Clone the repository:
 
 git clone https://github.com/sahilattri2/organic-farming-backend.git
-cd organic-farming-backend
+
+  cd organic-farming-backend
 ## Install Dependencies:
 ./mvnw install
 ## Setup Database:
